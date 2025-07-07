@@ -6,8 +6,8 @@ public class Question_2 {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter string : ");
-		String s1=sc.nextLine();
-		System.out.println("Welcome "+s1);
+		String s=sc.nextLine();
+		System.out.println("Welcome "+s);
 		sc.close();
 	}
 
