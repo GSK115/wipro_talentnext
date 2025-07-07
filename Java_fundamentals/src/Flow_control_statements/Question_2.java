@@ -6,8 +6,8 @@ public class Question_2 {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter the number : ");
-		int a=sc.nextInt();
-		if(a%2==0) {
+		int n=sc.nextInt();
+		if(n%2==0) {
 			System.out.println("Even");
 		}
 		else {
